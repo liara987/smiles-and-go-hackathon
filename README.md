@@ -54,13 +54,12 @@ ng serve --open
 ![](/public/screenshots/home.png)
 
 <div align="center">
+  <img src="https://i.imgur.com/xbEfigR.jpg#liara" alt="Liara" width="200" height="200">
+  
 
-![Liara](https://i.imgur.com/xbEfigR.jpg#liara)
-<br/>
+  <img src="https://avatars.githubusercontent.com/u/71163741?s=400&u=f42406384fae14aeeeb975f09b1f44f80da8af6f&v=4" alt="Nicolas" width="200" height="200">
+  
 
-👩‍💻 [Linkedin](https://www.linkedin.com/in/liara-programadora/)
-
-🎦 [Youtube](https://tinyurl.com/liara-programadora)
-
-📸 [Instagram](https://www.instagram.com/liaraprogramadora)
+  <img src="https://avatars.githubusercontent.com/u/72827954?s=400&u=49592ca9b302937d779ce62a16ba9668077fcb89&v=4" alt="Andressa" width="200" height="200">
+  
 </div>
